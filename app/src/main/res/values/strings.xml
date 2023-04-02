@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="roll">ROLL!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="settings_menu_label">Settings</string>
+    <string name="num_dice_key">num_dice_key</string>
+    <string name="hold_enable_key">hold_enable_key </string>
+    <string name="click_start"> Click Start </string>
+    <string name="button_initial" > Start </string>
+    <string name="player_label_format">"Player %d"</string>
+    <string name="button_enabled" > Roll </string>
+    <string name="click_roll" >Click roll</string>
+    <string name="second_start" >Start Second Player </string>
+    <string name="rolled_msg" >Rolled: </string>
+    <string-array name="num_dice_spinner_entries">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>

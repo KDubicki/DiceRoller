@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dice3Img" type="id" />
+    <item name="dice4Img" type="id" />
+    <item name="dice5Img" type="id" />
+    <item name="dice2Img" type="id" />
+    <item name="dice1Img" type="id" />
+</resources>
